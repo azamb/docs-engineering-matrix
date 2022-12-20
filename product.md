@@ -6,9 +6,10 @@
 
 #### Engineer 1
 
-- Actively participates in Scrum.
+- Actively participates in Scrum (e.g. Standup, Sprint planning, team retrospective).
 - Understands the importance and purpose of cadences of the methodology.
 - Understands how their work gets released to production.
+- Practices delivering their work all the way to production.
 
 #### Senior
 
@@ -35,8 +36,7 @@
 #### Engineer 1
 
 - Contributes to planned sprint work.
-- Delivers on commitments with a sense of urgency and understands the value of what they are working on and impact on the business.
-- Has daily conversations with the team about the progress of their work.
+- Has daily conversations with the team about the progress of their work within the ascribed framework.
 
 #### Senior
 
