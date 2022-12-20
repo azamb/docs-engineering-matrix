@@ -83,7 +83,7 @@
 
 ##### Examples
 
-- Comfortable navigating the GCP Cloud Logging tool in the dashboard project.
+- Comfortable navigating and effectively using the GCP Cloud Logging tool in the dashboard project.
 
 #### Senior
 
@@ -107,13 +107,14 @@
 
 #### Engineer 1
 
-- Understands the basics of debugging and the tools used for it
-- Uses a systematic approach to debug issues located within a single service
+- Understands the basic principles of debugging and the tools used for it
+- Uses a step by step based approach to debug issues located within a single service
 
 ##### Examples
 
 - Demonstrates ability to search error messages with Google or Stackoverflow.
 - Capable of identifying small problems in their workspace setup and resolving them accordingly.
+- Able to read and comprehend error messages for potential root causes from the source code.
 
 #### Senior
 
@@ -131,7 +132,7 @@
 
 #### Engineer 1
 
-- Learning to detect when there is an incident vs what is a lower priority bug
+- Learning to detect when there is an incident vs a lower priority bug
 
 #### Intermediate
 
@@ -163,7 +164,7 @@
 
 #### Engineer 1
 
-- Understands their team's domain and can gather sufficient context to work productively within it.
+- Understands their team's area of responsibility and can gather sufficient context to work productively within it.
 
 ##### Examples
 
@@ -187,13 +188,14 @@
 
 #### Engineer 1
 
-- Understands API interfaces for REST APIs
-- Understands different formats used in an API
-- Able to query and update data via an API
+- Understands all the components of HTTP RESTful JSON APIs.
+- Understands different formats used in an API.
+- Able to query and update data via an API.
 
 ##### Examples
 
 - Familiarity with OpenAPI Spec <https://spec.openapis.org/oas/latest.html>
+- Understands appropriate HTTP methods and response codes, and when to use them.
 
 #### Senior
 
@@ -271,13 +273,14 @@
 
 #### Engineer 1
 
-- Consistently creates reasonable sized pull requests that contain description of changes and testing conducted.
+- Consistently creates small pull requests that contain descriptions of changes and testing conducted.
 - Consistently responds constructively and respectfully in comments in pull requests.
 
 ##### Examples
 
-- Knows when and how to make use of git rebase
-- Capable of resolving merge conflicts in a feature branch
+- Knows when and how to use `git rebase` from the `main` branch.
+- Knows when and how to squash commits in a feature branch.
+- Knows when and how to resolve merge conflicts in a feature branch.
 
 #### Senior
 
@@ -320,8 +323,10 @@
 
 #### Engineer 1
 
-- Knows the testing pyramid. Writes unit tests, sometimes with help from more senior engineers.
-- Always tests expected edge cases and errors as well as the happy path.
+- Understands the principles of the testing pyramid.
+- Demonstrates the ability of writing tests, sometimes with help from more senior engineers.
+- Always tests expected edge cases, boundary cases, error cases, and the happy path.
+- Attempts both white-box and black-box testing where appropriate
 
 ##### Examples
 
