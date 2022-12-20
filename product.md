@@ -35,7 +35,7 @@
 
 #### Engineer 1
 
-- Contributes to planned sprint work.
+- Consistently completes assigned sprint work.
 - Has daily conversations with the team about the progress of their work within the ascribed framework.
 
 #### Senior
