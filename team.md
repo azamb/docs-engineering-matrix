@@ -9,7 +9,7 @@
 #### Engineer 1
 
 - Actively seeks feedback through pull requests and pairing.
-- Effectively applies feedback received in their work and uses feedback as a tool for growth.
+- Effectively applies pull request and pairing feedback received in their work and uses it as a tool for growth.
 
 #### Senior
 
@@ -33,13 +33,14 @@
 
 #### Engineer 1
 
-- Understands their area of work. Frequently shares knowledge of their work and areas they have worked in.
+- Understands their area of work. Frequently shares knowledge in areas they have worked in.
 
 ##### Examples
 
-- Consistently writes thorough pull requests descriptions
-- Contributing to the engineering wiki by writing documentation
-- Demos
+- Consistently writes thorough pull request descriptions
+- Contributes documentation to the engineering wiki
+- Demos of past work
+- Giving feedback during other's demos
 
 #### Senior
 
