@@ -189,7 +189,6 @@
 #### Engineer 1
 
 - Understands all the components of HTTP RESTful JSON APIs.
-- Understands different formats used in an API.
 - Able to query and update data via an API.
 
 ##### Examples
