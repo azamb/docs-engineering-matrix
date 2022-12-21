@@ -72,7 +72,7 @@
 
 - Contributes to planning and estimation
 - Works on prioritized tasks first and with a bias to action.
-- Understands value of rightsizing and breaking down tasks to enable continuous integration and incremental delivery.
+- Understands the value of rightsizing and breaking down tasks to enable continuous integration and incremental delivery.
 - Developing an understanding of weighing cost and value in decision making.
 
 #### Senior

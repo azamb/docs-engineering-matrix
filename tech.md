@@ -48,11 +48,10 @@
 
 #### Engineer 1
 
-- Developing a deeper understanding of slices of the technology stack.
+- Understands how microservices across the stack integrate with eachother.
 
 ##### Examples
 
-- Understands the dependencies between the microservices in the stack.
 - Aware of the different microservices in the stack and their business domain (the Why and the What).
 
 #### Senior
@@ -165,10 +164,6 @@
 #### Engineer 1
 
 - Understands their team's area of responsibility and can gather sufficient context to work productively within it.
-
-##### Examples
-
-- You are able to gain context within the team's domain with occasional help from more senior engineers. You are comfortable with the basics of code interface design and are learning to be more intentional.
 
 #### Senior
 
