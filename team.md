@@ -37,10 +37,10 @@
 
 ##### Examples
 
-- Consistently writes thorough pull request descriptions
-- Contributes documentation to the engineering wiki
-- Demos of past work
-- Giving feedback during other's demos
+- Consistently writes thorough pull request descriptions.
+- Contributes documentation to the engineering wiki.
+- Demos of past work.
+- Giving feedback during other's demos.
 
 #### Senior
 
@@ -68,7 +68,7 @@
 
 #### Engineer 1
 
-- Understands their role in the decision making process.
+- Understands their role in the decision-making process.
 - Can disagree and understand disagreement constructively and non-defensively.
 - Contributes to the discussion while fully embracing business solutions and committing to delivery.
 - Assumes good intent and competence.

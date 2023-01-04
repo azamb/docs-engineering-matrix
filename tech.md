@@ -48,7 +48,7 @@
 
 #### Engineer 1
 
-- Understands how microservices across the stack integrate with eachother.
+- Understands how microservices across the stack integrate with each other.
 
 ##### Examples
 
@@ -78,7 +78,7 @@
 
 #### Engineer 1
 
-- Is aware of the organization's monitoring philosophy and skilled with the monitoring tools
+- Understands and practices the organization's monitoring philosophy.
 
 ##### Examples
 
@@ -106,13 +106,13 @@
 
 #### Engineer 1
 
-- Understands the basic principles of debugging and the tools used for it
-- Uses a step by step based approach to debug issues located within a single service
+- Understands the basic principles of debugging and the tools used for it.
+- Uses a step by step based approach to debug issues located within a single service.
 
 ##### Examples
 
 - Demonstrates ability to search error messages with Google or Stackoverflow.
-- Capable of identifying small problems in their workspace setup and resolving them accordingly.
+- Capable of identifying minor problems in their workspace setup and resolving them accordingly.
 - Able to read and comprehend error messages for potential root causes from the source code.
 
 #### Senior
@@ -131,7 +131,7 @@
 
 #### Engineer 1
 
-- Learning to detect when there is an incident vs a lower priority bug
+- Learning to detect when there is an incident versus a lower priority bug.
 
 #### Intermediate
 
@@ -188,8 +188,8 @@
 
 ##### Examples
 
-- Familiarity with OpenAPI Spec <https://spec.openapis.org/oas/latest.html>
-- Understands appropriate HTTP methods and response codes, and when to use them.
+- Familiarity with OpenAPI Spec <https://spec.openapis.org/oas/latest.html>.
+- Understands appropriate HTTP methods, response codes and when to use them.
 
 #### Senior
 
@@ -237,15 +237,15 @@
 
 #### Engineer 1
 
-- Is able to design basic functions, avoiding duplication across codebases and interface-breaking changes based on an understanding of the overall service architecture.
+- Is able to design basic functions, avoiding duplication across codebases and interface-breaking changes based on understanding the overall service architecture.
 
 ##### Examples
 
-- Reaction to feedback: You understand the feedback given and applies it consistently to your work.
+- Reaction to feedback: You understand the feedback and apply it consistently to your work.
 
-- Design: You are comfortable with the basics of code interface design, and are learning to be more intentional.
+- Design: You are comfortable with the basics of code interface design and are learning to be more intentional.
 
-- Technical debt: You can usually recognize technical debt and can pay it down when advised.
+- Technical debt: You can usually recognize technical debt and pay it down when advised.
 
 #### Senior
 
@@ -318,15 +318,15 @@
 #### Engineer 1
 
 - Understands the principles of the testing pyramid.
-- Demonstrates the ability of writing tests, sometimes with help from more senior engineers.
+- Demonstrates the ability to write tests, sometimes with help from more senior engineers.
 - Always tests expected edge cases, boundary cases, error cases, and the happy path.
-- Attempts both white-box and black-box testing where appropriate
+- Attempts both white-box and black-box testing where appropriate.
 
 ##### Examples
 
-- Testing your code: You consistently write solid unit tests, sometimes with help from more senior engineers
-- Improving coverage: You've spotted small areas of low test coverage and patched them
-- Taking responsibility: You've consistently ensured that your code passes tests before creating or merging pull requests
+- Testing your code: You consistently write solid unit tests, sometimes with help from more senior engineers.
+- Improving coverage: You've spotted small areas of low test coverage and patched them.
+- Taking responsibility: You've consistently ensured that your code passes tests before creating or merging pull requests.
 
 
 #### Senior

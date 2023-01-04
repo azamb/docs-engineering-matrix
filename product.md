@@ -6,10 +6,10 @@
 
 #### Engineer 1
 
-- Actively participates in Scrum (e.g. Standup, Sprint planning, team retrospective).
-- Understands the importance and purpose of cadences of the methodology.
+- Actively participates in Scrum (Standup, Sprint planning, Team retrospective).
+- Understands the importance and purpose of the cadences of the methodology.
 - Understands how their work gets released to production.
-- Practices delivering their work all the way to production.
+- Practices continuous delivery to production.
 
 #### Senior
 
@@ -70,10 +70,10 @@
 
 #### Engineer 1
 
-- Contributes to planning and estimation
+- Contributes to planning and estimation.
 - Works on prioritized tasks first and with a bias to action.
 - Understands the value of rightsizing and breaking down tasks to enable continuous integration and incremental delivery.
-- Developing an understanding of weighing cost and value in decision making.
+- Developing an understanding of weighing cost and value in decision-making.
 
 #### Senior
 
@@ -108,7 +108,7 @@
 #### Engineer 1
 
 - Works to clarify ambiguity in tasks and asks questions for clarification.
-- Handles risk, change, and uncertainty within their personal scope of work effectively.
+- Handles risk, change, and uncertainty within their scope of work effectively.
 
 #### Senior
 
@@ -146,4 +146,4 @@
 - Maintains a healthy amount of urgency and consistency in their work.
 - Makes effective use of existing documentation, examples and other resources to gain a solid understanding before relying on teammates.
 - Knows how to ask good questions of their teammates and does so after trying options on their own.
-- Has awareness of rabbit holes and doesn't burn too much time on their own before consulting teammates.
+- Is aware of rabbit holes and doesn't burn too much time on their own before consulting teammates.
