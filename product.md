@@ -9,7 +9,7 @@
 - Actively participates in Scrum (Standup, Sprint planning, Team retrospective).
 - Understands the importance and purpose of the cadences of the methodology.
 - Understands how their work gets released to production.
-- Practices continuous delivery to production.
+- Practices continuous delivery. Takes ownership of testing and releasing their work to production.
 
 #### Senior
 
