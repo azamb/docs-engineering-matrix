@@ -70,7 +70,8 @@
 
 #### Engineer 1
 
-- Contributes to planning and estimation.
+- Contributes to team planning by writing small technical tasks that teammates easily understand.
+- Can estimate the effort of small tasks with some help from more senior teammates.
 - Works on prioritized tasks first and with a bias to action.
 - Understands the value of rightsizing and breaking down tasks to enable continuous integration and incremental delivery.
 - Developing an understanding of weighing cost and value in decision-making.
