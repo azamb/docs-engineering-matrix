@@ -4,19 +4,12 @@
 
 ## Software Development Lifecycle
 
-#### Junior
+#### Engineer 1
 
-> Participates and developing an understanding on Scrum and the importance and purpose of cadences of the methodology.
-
-> Understands how the flow of work gets delivered to production.
-
-#### Intermediate
-
-> Actively participates and understands Scrum, understands the importance and purpose of cadences of the methodology, developing a point of view on a good software delivery process.
-
-> Understands how the flow of work gets delivered to production, acts to improve the delivery process.
-
-> Considers how the feature will be deployed with minimal disruption to production and how the feature will be monitored.
+- Actively participates in Scrum (Standup, Sprint planning, Team retrospective).
+- Understands the importance and purpose of the cadences of the methodology.
+- Understands how their work gets released to production.
+- Practices continuous delivery. Takes ownership of testing and releasing their work to production.
 
 #### Senior
 
@@ -40,23 +33,10 @@
 
 ## Reliability & Accountability
 
-#### Junior
+#### Engineer 1
 
-> Able to contribute to planned sprint work with guidance.
-
-> Has daily conversation with the team about the progress of their work.
-
-> Delivers on commitments with a sense of urgency and cares about the value of what they are working on and impact on the business.
-
-#### Intermediate
-
-> Ensures their commitments are realistic, understands their priority and urgency, and delivers upon them accordingly.
-
-> Anticipates and communicates blockers, delays, and cost ballooning for their work before they require escalation.
-
-> Cares about the value of what the team is working on and impact on the business.
-
-> Ensures expectations within their team are clarified between all parties involved.
+- Consistently delivers work tasks based on prior commitments.
+- Has daily conversations with the team about the progress of their work within the ascribed framework.
 
 #### Senior
 
@@ -88,23 +68,13 @@
 
 ## Technical Planning
 
-#### Junior
+#### Engineer 1
 
-> Able to contribute to planning and estimation with guidance.
-
-> Works on prioritised tasks first and with a bias to action.
-
-> Understands value of rightsizing and breaking down tasks to enable continuous integration and incremental delivery.
-
-> Developing an understanding of weighing cost and value in decision making.
-
-#### Intermediate
-
-> Reviews tasks critically and ensures they’re appropriately sized for continuous integration and incremental delivery, and weighs cost and value in order to take the most pragmatic action.
-
-> Uses this thinking in their own work, and to make suggestions to teammates.
-
-> Ensures tasks are prioritised correctly, dependencies are noted early and frontloads these items as part of prioritsation.
+- Contributes to team planning by writing small technical tasks that teammates easily understand.
+- Can estimate the effort of small tasks with some help from more senior teammates.
+- Works on prioritized tasks first and with a bias to action.
+- Understands the value of rightsizing and breaking down tasks to enable continuous integration and incremental delivery.
+- Developing an understanding of weighing cost and value in decision-making.
 
 #### Senior
 
@@ -136,19 +106,11 @@
 
 ## Dealing with Ambiguity
 
-#### Junior
+#### Engineer 1
 
-> Works to clarify ambiguity in tasks and asks questions for clarification.
-
-> Works on defining and handling risks with help from others.
-
-#### Intermediate
-
-> Handles risk, change, and uncertainty within their personal scope of work effectively.
-
-> Takes initiative to clarify ambiguity in a project and communicates risk early and offers possible solutions.
-
-> Decides and acts responsibly without having the total picture and when in high pressure situations, assisting others and communicating early.
+- Works to clarify ambiguity in tasks and asks questions for clarification.
+- Handles risk, change, and uncertainty within their scope of work effectively.
+- Is aware of rabbit holes and doesn't burn too much time on their own before consulting teammates.
 
 #### Senior
 
@@ -177,3 +139,11 @@
 > Works on issues where analysis of situation or data requires review of relevant factors.
 
 > Exercises final judgement within defined procedures and/or policies to determine appropriate action and/or implementation.
+
+## Autonomy & Self-Starting
+
+#### Enginer 1
+
+- Dives into new projects & technologies with curiosity and a drive to understand.
+- Makes effective use of existing documentation, examples and other resources to gain a solid understanding before relying on teammates.
+- Knows how to ask good questions of their teammates and does so after trying options on their own.
