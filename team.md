@@ -110,6 +110,8 @@
 #### Engineer 1
 
 - Actively demonstrates a positive attitude, learns from mistakes and does not place blame on others.
+- Understands organizational engineering strategy and how it applies to their role & team.
+- Works to represent self & team positively within the organization.
 
 
 #### Senior

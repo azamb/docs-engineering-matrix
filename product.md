@@ -35,7 +35,7 @@
 
 #### Engineer 1
 
-- Consistently completes assigned sprint work.
+- Consistently delivers work tasks based on prior commitments.
 - Has daily conversations with the team about the progress of their work within the ascribed framework.
 
 #### Senior
@@ -109,6 +109,7 @@
 
 - Works to clarify ambiguity in tasks and asks questions for clarification.
 - Handles risk, change, and uncertainty within their scope of work effectively.
+- Is aware of rabbit holes and doesn't burn too much time on their own before consulting teammates.
 
 #### Senior
 
@@ -143,7 +144,5 @@
 #### Enginer 1
 
 - Dives into new projects & technologies with curiosity and a drive to understand.
-- Maintains a healthy amount of urgency and consistency in their work.
 - Makes effective use of existing documentation, examples and other resources to gain a solid understanding before relying on teammates.
 - Knows how to ask good questions of their teammates and does so after trying options on their own.
-- Is aware of rabbit holes and doesn't burn too much time on their own before consulting teammates.
